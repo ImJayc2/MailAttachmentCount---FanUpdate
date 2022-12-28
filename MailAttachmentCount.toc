@@ -1,0 +1,11 @@
+## Interface: 100002
+## Title: MailAttachmentCount |cff00aa00DF v10.0.02 - FanUpdate:ImJayc2|r
+## Notes: Shows attachment count in Inbox icon.
+## Author: kunda, ImJayc2
+## Version: 10.0.2 DF FanUpdate ImJayc2
+## X-Curse-Packaged-Version: 50200-1
+## X-Curse-Project-Name: MailAttachmentCount
+## X-Curse-Project-ID: mail-attachment-count
+## X-Curse-Repository-ID: wow/mail-attachment-count/mainline
+
+MailAttachmentCount.lua
