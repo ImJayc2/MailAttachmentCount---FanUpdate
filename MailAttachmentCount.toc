@@ -3,9 +3,8 @@
 ## Notes: Shows attachment count in Inbox icon.
 ## Author: kunda, ImJayc2
 ## Version: 10.0.2 DF FanUpdate ImJayc2
-## X-Curse-Packaged-Version: 50200-1
-## X-Curse-Project-Name: MailAttachmentCount
-## X-Curse-Project-ID: mail-attachment-count
-## X-Curse-Repository-ID: wow/mail-attachment-count/mainline
+## X-Curse-Packaged-Version: 10.0.2
+## X-Curse-Project-Name: MailAttachmentCount-FanUpdate
+## X-Curse-Project-ID: 782600
 
 MailAttachmentCount.lua
