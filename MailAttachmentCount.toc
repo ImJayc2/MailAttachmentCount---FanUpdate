@@ -7,4 +7,4 @@
 ## X-Curse-Project-Name: MailAttachmentCount-FanUpdate
 ## X-Curse-Project-ID: 782600
 
-MailAttachmentCount.lua
+MailAttachmentCount-FanUpdate.lua
