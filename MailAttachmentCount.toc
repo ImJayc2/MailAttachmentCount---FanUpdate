@@ -1,5 +1,5 @@
 ## Interface: 100002
-## Title: MailAttachmentCount |cff00aa00DF v10.0.02 - FanUpdate:ImJayc2|r
+## Title: MailAttachmentCount-FanUpdate |cff00aa00DF v10.0.02 by ImJayc2|r
 ## Notes: Shows attachment count in Inbox icon.
 ## Author: kunda, ImJayc2
 ## Version: 10.0.2 DF FanUpdate ImJayc2
