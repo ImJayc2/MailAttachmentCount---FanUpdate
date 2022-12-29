@@ -1,5 +1,6 @@
 -- -------------------------------------------------------------------------- --
--- MailAttachmentCount by kunda                                               --
+-- MailAttachmentCount-FanUpdate by ImJayc2
+-- Original MailAttachmentCount by kunda                                               --
 -- -------------------------------------------------------------------------- --
 
 local GVAR = {}
