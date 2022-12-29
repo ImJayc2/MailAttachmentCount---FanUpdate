@@ -1,4 +1,4 @@
-# MailAttachmentCount---FanUpdate
+# MailAttachmentCount-FanUpdate
 # Shows attachment count in Inbox icon
 # Author: ImJayc2
 # Updated for DragonFlight 100002
